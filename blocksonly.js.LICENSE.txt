@@ -1,8 +1,8 @@
 /*
-    object-assign
-    (c) Sindre Sorhus
-    @license MIT
-    */
+	object-assign
+	(c) Sindre Sorhus
+	@license MIT
+	*/
 
 /*
 object-assign
@@ -12,9 +12,25 @@ object-assign
 
 /* @license
 Papa Parse
-v5.3.0
+v5.4.1
 https://github.com/mholt/PapaParse
 License: MIT
+*/
+
+/* @license twgl.js 4.24.0 Copyright (c) 2015, Gregg Tavares All Rights Reserved.
+Available via the MIT license.
+see: http://github.com/greggman/twgl.js for details */
+
+/*!
+	  Copyright (c) 2016 Jed Watson.
+	  Licensed under the MIT License (MIT), see
+	  http://jedwatson.github.io/classnames
+	*/
+
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
 */
 
 /*!
@@ -30,12 +46,6 @@ https://github.com/nodeca/pako/blob/main/LICENSE
 */
 
 /*!
-                                                                     Copyright (c) 2016 Jed Watson.
-                                                                     Licensed under the MIT License (MIT), see
-                                                                     http://jedwatson.github.io/classnames
-                                                                     */
-
-/*!
         * The buffer module from node.js, for the browser.
         *
         * @author   Feross Aboukhadijeh <http://feross.org>
@@ -47,18 +57,6 @@ https://github.com/nodeca/pako/blob/main/LICENSE
   Based on code that is Copyright 2013-2015, Facebook, Inc.
   All rights reserved.
 */
-
-/*!
-  Copyright (c) 2017 Jed Watson.
-  Licensed under the MIT License (MIT), see
-  http://jedwatson.github.io/classnames
-*/
-
-/*!
- * @license twgl.js 4.4.0 Copyright (c) 2015, Gregg Tavares All Rights Reserved.
- * Available via the MIT license.
- * see: http://github.com/greggman/twgl.js for details
- */
 
 /*!
  * Adapted from jQuery UI core
@@ -205,11 +203,11 @@ and limitations under the License.
 
 /*! @babel/runtime/helpers/possibleConstructorReturn */
 
+/*! @babel/runtime/helpers/readOnlyError */
+
 /*! @babel/runtime/helpers/slicedToArray */
 
-/*! @license DOMPurify 3.0.9 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.0.9/LICENSE */
-
-/*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.2.2/LICENSE */
+/*! @license DOMPurify 3.1.7 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.1.7/LICENSE */
 
 /*! @source http://purl.eligrey.com/github/canvas-toBlob.js/blob/master/canvas-toBlob.js */
 
@@ -218,8 +216,6 @@ and limitations under the License.
 /*! cross-fetch */
 
 /*! fastestsmallesttextencoderdecoder */
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
 
 /*! ieee754 */
 
@@ -404,6 +400,10 @@ and limitations under the License.
       \************************************************************/
 
 /*!**************************************************************!*\
+      !*** ./node_modules/@babel/runtime/helpers/readOnlyError.js ***!
+      \**************************************************************/
+
+/*!**************************************************************!*\
       !*** ./node_modules/@babel/runtime/helpers/slicedToArray.js ***!
       \**************************************************************/
 
@@ -545,6 +545,8 @@ and limitations under the License.
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+
+/** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
 
 //!! Deliberately using an API that's deprecated in node.js because
 
